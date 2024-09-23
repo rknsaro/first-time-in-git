@@ -1,0 +1,26 @@
+terminal >> new terminal
+
+git config --global user.name "John Carlo Orlina" 
+git config --global user.email "John Carlo Orlina" 
+Staging - git add.
+
+----------------------
+
+VCS - Version Control System
+
+Directory - index.html
+Staging - git add.
+git status
+h1-h2 (First commit)
+h3-h4 (Second Commit)
+p1-p2 (Third commit)
+
+
+------
+
+git commit -m "Message"
+git add . (to know your changes)
+git log (check the logs)
+git commit (to know the status)
+git reset --hard HEAD~1 (go back previous version)
+
