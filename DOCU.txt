@@ -20,7 +20,10 @@ p1-p2 (Third commit)
 
 git commit -m "Message"
 git add . (to know your changes)
+git status  
 git log (check the logs)
 git commit (to know the status)
 git reset --hard HEAD~1 (go back previous version)
-
+git branch -M main (rename the brand)
+git remote add origin https://github.com/rknsaro/first-time-in-git.git
+git push -u origin main
